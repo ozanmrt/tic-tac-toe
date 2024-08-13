@@ -3,6 +3,8 @@
 
 A XOX game made using React and Tailwind
 
+![SS](https://github.com/user-attachments/assets/bd28c9dd-a1e9-4d03-b251-087201f548d1)
+
 
 
 ## Installation and Usage
