@@ -4,7 +4,8 @@
 A XOX game made using React and Tailwind
 
 
-### Installation and Usage
+
+## Installation and Usage
 
 1. Clone the repo
    ```sh
